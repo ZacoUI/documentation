@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Sensity - Discord/log",
+  "id": "Sensity - Discord/log",
+  "title": "Les Log",
+  "description": "Nous allons voir ici l'utilité de chaque log expliquer  un par un",
+  "source": "@site/docs/Sensity - Discord/log.md",
+  "sourceDirName": "Sensity - Discord",
+  "slug": "/Sensity - Discord/log",
+  "permalink": "/sensity-doc/docs/Sensity - Discord/log",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - Discord/log.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Les Log",
+    "description": "Nous allons voir ici l'utilité de chaque log expliquer  un par un"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les salons textuel",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/salon textuel"
+  },
+  "next": {
+    "title": "Sensity* - In Game",
+    "permalink": "/sensity-doc/docs/category/sensity---in-game"
+  }
+}

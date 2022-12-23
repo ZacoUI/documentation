@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Sensity - ig/report",
+  "id": "Sensity - ig/report",
+  "title": "Prendre traiter et terminer un report",
+  "description": "Nous allons voir aussi toutes la mécanique à avoir lors de la prise de report",
+  "source": "@site/docs/Sensity - ig/report.md",
+  "sourceDirName": "Sensity - ig",
+  "slug": "/Sensity - ig/report",
+  "permalink": "/sensity-doc/docs/Sensity - ig/report",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - ig/report.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "report",
+    "title": "Prendre traiter et terminer un report",
+    "description": "Nous allons voir aussi toutes la mécanique à avoir lors de la prise de report"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Le menu staff",
+    "permalink": "/sensity-doc/docs/Sensity - ig/menu staff"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/sensity-doc/docs/category/tutorial---extras"
+  }
+}

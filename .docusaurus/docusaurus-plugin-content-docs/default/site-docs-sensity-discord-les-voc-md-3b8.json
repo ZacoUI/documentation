@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Sensity - Discord/les voc",
+  "id": "Sensity - Discord/les voc",
+  "title": "Les voc",
+  "description": "Nous allons voir ici comment se comporter dans les vocales Sensity .",
+  "source": "@site/docs/Sensity - Discord/les voc.md",
+  "sourceDirName": "Sensity - Discord",
+  "slug": "/Sensity - Discord/les voc",
+  "permalink": "/sensity-doc/docs/Sensity - Discord/les voc",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - Discord/les voc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Les voc",
+    "description": "Nous allons voir ici comment se comporter dans les vocales Sensity ."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensity - Discord",
+    "permalink": "/sensity-doc/docs/category/sensity---discord"
+  },
+  "next": {
+    "title": "Profil et Game Activity",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/profil et ga"
+  }
+}

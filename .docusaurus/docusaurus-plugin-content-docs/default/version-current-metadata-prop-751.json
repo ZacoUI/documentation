@@ -1,0 +1,163 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "intro",
+        "href": "/sensity-doc/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Sensity - Discord",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Les voc",
+            "href": "/sensity-doc/docs/Sensity - Discord/les voc",
+            "docId": "Sensity - Discord/les voc"
+          },
+          {
+            "type": "link",
+            "label": "Profil et Game Activity",
+            "href": "/sensity-doc/docs/Sensity - Discord/profil et ga",
+            "docId": "Sensity - Discord/profil et ga"
+          },
+          {
+            "type": "link",
+            "label": "Les salons textuel",
+            "href": "/sensity-doc/docs/Sensity - Discord/salon textuel",
+            "docId": "Sensity - Discord/salon textuel"
+          },
+          {
+            "type": "link",
+            "label": "Les Log",
+            "href": "/sensity-doc/docs/Sensity - Discord/log",
+            "docId": "Sensity - Discord/log"
+          }
+        ],
+        "href": "/sensity-doc/docs/category/sensity---discord"
+      },
+      {
+        "type": "category",
+        "label": "Sensity* - In Game",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Le menu staff",
+            "href": "/sensity-doc/docs/Sensity - ig/menu staff",
+            "docId": "Sensity - ig/menu staff"
+          },
+          {
+            "type": "link",
+            "label": "Prendre traiter et terminer un report",
+            "href": "/sensity-doc/docs/Sensity - ig/report",
+            "docId": "Sensity - ig/report"
+          }
+        ],
+        "href": "/sensity-doc/docs/category/sensity---in-game"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Game Master Tools",
+            "href": "/sensity-doc/docs/Sensity-extras/gigl Tools",
+            "docId": "Sensity-extras/gigl Tools"
+          },
+          {
+            "type": "link",
+            "label": "Modérateur Tools",
+            "href": "/sensity-doc/docs/Sensity-extras/Modérateur Tools",
+            "docId": "Sensity-extras/Modérateur Tools"
+          },
+          {
+            "type": "link",
+            "label": "Admin Tools",
+            "href": "/sensity-doc/docs/Sensity-extras/Admin Tools",
+            "docId": "Sensity-extras/Admin Tools"
+          }
+        ],
+        "href": "/sensity-doc/docs/category/tutorial---extras"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "intro",
+      "description": "Intro de la documentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity - Discord/les voc": {
+      "id": "Sensity - Discord/les voc",
+      "title": "Les voc",
+      "description": "Nous allons voir ici comment se comporter dans les vocales Sensity .",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity - Discord/log": {
+      "id": "Sensity - Discord/log",
+      "title": "Les Log",
+      "description": "Nous allons voir ici l'utilité de chaque log expliquer  un par un",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity - Discord/profil et ga": {
+      "id": "Sensity - Discord/profil et ga",
+      "title": "Profil et Game Activity",
+      "description": "Profil",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity - Discord/salon textuel": {
+      "id": "Sensity - Discord/salon textuel",
+      "title": "Les salons textuel",
+      "description": "Tout savoir sur les salons staff dans \"Staff générale\"",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity - ig/menu staff": {
+      "id": "Sensity - ig/menu staff",
+      "title": "Le menu staff",
+      "description": "Nous allons voir ici comment découvrir configurer et utiliser tout le potentiel du menu staff",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity - ig/report": {
+      "id": "Sensity - ig/report",
+      "title": "Prendre traiter et terminer un report",
+      "description": "Nous allons voir aussi toutes la mécanique à avoir lors de la prise de report",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity-extras/Admin Tools": {
+      "id": "Sensity-extras/Admin Tools",
+      "title": "Admin Tools",
+      "description": "En construction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity-extras/gigl Tools": {
+      "id": "Sensity-extras/gigl Tools",
+      "title": "Game Master Tools",
+      "description": "En construction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Sensity-extras/Modérateur Tools": {
+      "id": "Sensity-extras/Modérateur Tools",
+      "title": "Modérateur Tools",
+      "description": "En construction",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

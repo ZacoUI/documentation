@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Sensity - Discord/markdown-features",
+  "id": "Sensity - Discord/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/Sensity - Discord/markdown-features.mdx",
+  "sourceDirName": "Sensity - Discord",
+  "slug": "/Sensity - Discord/markdown-features",
+  "permalink": "/sensity-doc/docs/Sensity - Discord/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - Discord/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les Log",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/log"
+  },
+  "next": {
+    "title": "Sensity* - In Game",
+    "permalink": "/sensity-doc/docs/category/sensity---in-game"
+  }
+}

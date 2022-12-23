@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Sensity - Discord/profil et ga",
+  "id": "Sensity - Discord/profil et ga",
+  "title": "Profil et Game Activity",
+  "description": "Profil",
+  "source": "@site/docs/Sensity - Discord/profil et ga.md",
+  "sourceDirName": "Sensity - Discord",
+  "slug": "/Sensity - Discord/profil et ga",
+  "permalink": "/sensity-doc/docs/Sensity - Discord/profil et ga",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - Discord/profil et ga.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les voc",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/les voc"
+  },
+  "next": {
+    "title": "Les salons textuel",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/salon textuel"
+  }
+}

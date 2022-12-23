@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/sensity-doc/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/sensity-doc/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/sensity-doc/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity - Discord/les voc",
+              "path": "/sensity-doc/docs/Sensity - Discord/les voc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity - Discord/log",
+              "path": "/sensity-doc/docs/Sensity - Discord/log",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity - Discord/profil et ga",
+              "path": "/sensity-doc/docs/Sensity - Discord/profil et ga",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity - Discord/salon textuel",
+              "path": "/sensity-doc/docs/Sensity - Discord/salon textuel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity - ig/menu staff",
+              "path": "/sensity-doc/docs/Sensity - ig/menu staff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity - ig/report",
+              "path": "/sensity-doc/docs/Sensity - ig/report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity-extras/Admin Tools",
+              "path": "/sensity-doc/docs/Sensity-extras/Admin Tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity-extras/gigl Tools",
+              "path": "/sensity-doc/docs/Sensity-extras/gigl Tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensity-extras/Modérateur Tools",
+              "path": "/sensity-doc/docs/Sensity-extras/Modérateur Tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sensity---discord",
+              "path": "/sensity-doc/docs/category/sensity---discord",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sensity---in-game",
+              "path": "/sensity-doc/docs/category/sensity---in-game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/sensity-doc/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/sensity-doc/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

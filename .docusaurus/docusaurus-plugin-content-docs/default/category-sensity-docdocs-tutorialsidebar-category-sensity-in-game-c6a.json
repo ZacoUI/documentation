@@ -1,0 +1,16 @@
+{
+  "title": "Sensity* - In Game",
+  "description": "Formation pour la partie en jeux",
+  "slug": "/category/sensity---in-game",
+  "permalink": "/sensity-doc/docs/category/sensity---in-game",
+  "navigation": {
+    "previous": {
+      "title": "Les Log",
+      "permalink": "/sensity-doc/docs/Sensity - Discord/log"
+    },
+    "next": {
+      "title": "Le menu staff",
+      "permalink": "/sensity-doc/docs/Sensity - ig/menu staff"
+    }
+  }
+}

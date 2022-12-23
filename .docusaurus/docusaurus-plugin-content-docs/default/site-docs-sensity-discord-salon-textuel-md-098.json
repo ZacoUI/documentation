@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Sensity - Discord/salon textuel",
+  "id": "Sensity - Discord/salon textuel",
+  "title": "Les salons textuel",
+  "description": "Tout savoir sur les salons staff dans \"Staff générale\"",
+  "source": "@site/docs/Sensity - Discord/salon textuel.md",
+  "sourceDirName": "Sensity - Discord",
+  "slug": "/Sensity - Discord/salon textuel",
+  "permalink": "/sensity-doc/docs/Sensity - Discord/salon textuel",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - Discord/salon textuel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Profil et Game Activity",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/profil et ga"
+  },
+  "next": {
+    "title": "Les Log",
+    "permalink": "/sensity-doc/docs/Sensity - Discord/log"
+  }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zacoui.github.io/sensity-doc/blog</id>
+    <title>Sensity* Doc Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zacoui.github.io/sensity-doc/blog"/>
+    <subtitle>Sensity* Doc Blog</subtitle>
+    <icon>https://zacoui.github.io/sensity-doc/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>/</id>
+        <link href="https://zacoui.github.io/sensity-doc/blog/"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[En construction]]></summary>
+        <author>
+            <name>Sébas tien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <author>
+            <name>Yangs hun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+        <category label="Sensity v2" term="Sensity v2"/>
+        <category label="Formation" term="Formation"/>
+    </entry>
+</feed>

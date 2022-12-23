@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Sensity-extras/Modérateur Tools",
+  "id": "Sensity-extras/Modérateur Tools",
+  "title": "Modérateur Tools",
+  "description": "En construction",
+  "source": "@site/docs/Sensity-extras/manage-docs-versions.md",
+  "sourceDirName": "Sensity-extras",
+  "slug": "/Sensity-extras/Modérateur Tools",
+  "permalink": "/sensity-doc/docs/Sensity-extras/Modérateur Tools",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity-extras/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "Modérateur Tools",
+    "title": "Modérateur Tools",
+    "description": "En construction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Game Master Tools",
+    "permalink": "/sensity-doc/docs/Sensity-extras/gigl Tools"
+  },
+  "next": {
+    "title": "Admin Tools",
+    "permalink": "/sensity-doc/docs/Sensity-extras/Admin Tools"
+  }
+}

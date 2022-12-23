@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Sensity - ig/menu staff",
+  "id": "Sensity - ig/menu staff",
+  "title": "Le menu staff",
+  "description": "Nous allons voir ici comment découvrir configurer et utiliser tout le potentiel du menu staff",
+  "source": "@site/docs/Sensity - ig/menu staff.md",
+  "sourceDirName": "Sensity - ig",
+  "slug": "/Sensity - ig/menu staff",
+  "permalink": "/sensity-doc/docs/Sensity - ig/menu staff",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity - ig/menu staff.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "menu staff",
+    "title": "Le menu staff",
+    "description": "Nous allons voir ici comment découvrir configurer et utiliser tout le potentiel du menu staff"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensity* - In Game",
+    "permalink": "/sensity-doc/docs/category/sensity---in-game"
+  },
+  "next": {
+    "title": "Prendre traiter et terminer un report",
+    "permalink": "/sensity-doc/docs/Sensity - ig/report"
+  }
+}

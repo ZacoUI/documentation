@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sensity* Doc Blog</title>
+        <link>https://zacoui.github.io/sensity-doc/blog</link>
+        <description>Sensity* Doc Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://zacoui.github.io/sensity-doc/blog/</link>
+            <guid>/</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[En construction]]></description>
+            <category>Sensity v2</category>
+            <category>Formation</category>
+        </item>
+    </channel>
+</rss>

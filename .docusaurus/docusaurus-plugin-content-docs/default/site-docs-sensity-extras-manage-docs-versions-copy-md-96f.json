@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Sensity-extras/gigl Tools",
+  "id": "Sensity-extras/gigl Tools",
+  "title": "Game Master Tools",
+  "description": "En construction",
+  "source": "@site/docs/Sensity-extras/manage-docs-versions copy.md",
+  "sourceDirName": "Sensity-extras",
+  "slug": "/Sensity-extras/gigl Tools",
+  "permalink": "/sensity-doc/docs/Sensity-extras/gigl Tools",
+  "draft": false,
+  "editUrl": "https://github.com/ZacoUI/sensity-doc/tree/main/docs/docs/Sensity-extras/manage-docs-versions copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "gigl Tools",
+    "title": "Game Master Tools",
+    "description": "En construction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/sensity-doc/docs/category/tutorial---extras"
+  },
+  "next": {
+    "title": "Modérateur Tools",
+    "permalink": "/sensity-doc/docs/Sensity-extras/Modérateur Tools"
+  }
+}

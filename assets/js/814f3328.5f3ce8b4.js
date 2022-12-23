@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksensity_doc=self.webpackChunksensity_doc||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/sensity-doc/blog/"}]}')}}]);

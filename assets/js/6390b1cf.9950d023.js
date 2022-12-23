@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksensity_doc=self.webpackChunksensity_doc||[]).push([[850],{3833:s=>{s.exports=JSON.parse('[{"label":"Sensity v2","permalink":"/sensity-doc/blog/tags/sensity-v-2","count":1},{"label":"Formation","permalink":"/sensity-doc/blog/tags/formation","count":1}]')}}]);
